@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-12-09 10:37:56 +0100
-categories: jekyll update
----
-
