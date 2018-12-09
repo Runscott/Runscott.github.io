@@ -11,7 +11,7 @@ I like to play badminton in my spare time.
 Here's a cute picture of my dog - _Cassidy_
 
 <center>
-    <img src="{{ site.url }}/assets/cassidy.jpeg" 
+    <img src="{{ site.url }}/assets/cassidy.jpg" 
     alt="My dog"
     align="centre"
     style="width:316px;height:348px;"
